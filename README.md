@@ -1,1 +1,1 @@
-# Proyecto-Final-Estructura-de-Datos.-Aline-Dante-Francisco.
+# Proyecto Final Estructura de Datos. Por: Aline, Dante, Francisco.
