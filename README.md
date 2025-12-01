@@ -1,4 +1,4 @@
-# Proyecto Final Estructura de Datos. Por: Aline, Dante, Francisco.
+# Proyecto Final Estructura de Datos. Por: Dante, Francisco.
 
 Para el proyecto se decidio crear un codigo que pudiera manejar una lista de contactos junto con funciones que permitan su modificación y visualización.
 
