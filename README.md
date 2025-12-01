@@ -11,7 +11,7 @@ Para el proyecto se decidio crear un codigo que pudiera manejar una lista de con
 
 4.- Stack: Almacenar las modificaciones realizadas para deshacer estas acciones
 
-5.- Recientes.- Guardar las ultimas 5 busquedas realizadas
+5.- Recientes: Guardar las ultimas 5 busquedas realizadas
 
 ## Instrucciones de ejcución
 Requisitos: Versión de Python 3.7 o superior
