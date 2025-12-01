@@ -2,14 +2,18 @@
 
 Para el proyecto se decidio crear un codigo que pudiera manejar una lista de contactos junto con funciones que permitan su modificación y visualización.
 
-### Estructuras de datos usadas
+## Estructuras de datos usadas
 1.- Lista ligada: Historial de acciones ejecutadas
+
 2.- Arbol: Obtener contactos ordenados
+
 3.- Tabla hash: A cada contacto se le asigna un número de teléfono
+
 4.- Stack: Almacenar las modificaciones realizadas para deshacer estas acciones
+
 5.- Recientes.- Guardar las ultimas 5 busquedas realizadas
 
-### Instrucciones de ejcución
+## Instrucciones de ejcución
 Requisitos: Versión de Python 3.7 o superior
 Clona el repositorio, abre jupyter notebook y selecciona el archivo Lista-de-contactos.ipynb
 Al ejecutar el codigo aparecera un menu con opciones que van del 1 al 12. Escribe el número deseado dentre de ese rango.
